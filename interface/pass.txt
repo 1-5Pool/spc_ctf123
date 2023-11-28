@@ -1,0 +1,11 @@
++-------------+--------------------------------------------------------------+
+| username    | password                                                     |
++-------------+--------------------------------------------------------------+
+| physician1  | $2y$10$3Xnak1jEBRgnXZJ/9bijNu6TD1dReJn1Pu34UbzHC4uT.UfPTQZS. |
+| physician2  | $2y$10$gOkaagQ/2kqeJKLESFZ0HuiZAFsIgek7ByB9xetF18MKnDFF6QLbC |
+| accountant1 | $2y$10$6u2W3JYEIblewb2GmVPT/.rkfgqZnAxo8qt/1D/cStqXLOffBaJfS |
+| accountant2 | $2y$10$HS8dEZBrCBX2vSc75xLPkerL7aY3y03bcipp2xlIX0T.RyijxPSzq |
+| clinician   | $2y$10$A/uaziaFkAoPFaLZAzK4gO5ZKOHzYj6pryCnDMJZpR5KxwovWXAxC |
+| intern1     | $2y$10$.jga4R2rDn0eTDB0umaLsu2ZPM3AoNKEs6KhSdclbTRtyxI6SmCbG |
+| new         | $2y$10$Ew0.EI8EcGgmj2jgKP91iefLreFbXMRyeL2Mnbpi4/ua7zPdJlvuC |
++-------------+--------------------------------------------------------------+
